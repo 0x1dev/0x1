@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/ox1_bg.qm</file>
+        <file alias="ca">locale/ox1_ca.qm</file>
+        <file alias="cs">locale/ox1_cs.qm</file>
+        <file alias="da">locale/ox1_da.qm</file>
+        <file alias="de">locale/ox1_de.qm</file>
+        <file alias="en">locale/ox1_en.qm</file>
+        <file alias="en_US">locale/ox1_en_US.qm</file>
+        <file alias="es">locale/ox1_es.qm</file>
+        <file alias="fi">locale/ox1_fi.qm</file>
+        <file alias="fr_FR">locale/ox1_fr_FR.qm</file>
+        <file alias="hr">locale/ox1_hr.qm</file>
+        <file alias="it">locale/ox1_it.qm</file>
+        <file alias="ja">locale/ox1_ja.qm</file>
+        <file alias="ko_KR">locale/ox1_ko_KR.qm</file>
+        <file alias="nl">locale/ox1_nl.qm</file>
+        <file alias="pl">locale/ox1_pl.qm</file>
+        <file alias="pt">locale/ox1_pt.qm</file>
+        <file alias="pt_BR">locale/ox1_pt_BR.qm</file>
+        <file alias="ro_RO">locale/ox1_ro_RO.qm</file>
+        <file alias="ru">locale/ox1_ru.qm</file>
+        <file alias="sk">locale/ox1_sk.qm</file>
+        <file alias="sv">locale/ox1_sv.qm</file>
+        <file alias="tr">locale/ox1_tr.qm</file>
+        <file alias="uk">locale/ox1_uk.qm</file>
+        <file alias="zh_CN">locale/ox1_zh_CN.qm</file>
+        <file alias="zh_TW">locale/ox1_zh_TW.qm</file>
+    </qresource>
+</RCC>
